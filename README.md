@@ -3,22 +3,34 @@
 1. Python
    
    a. Pandas
+   
    b. Numpy
+
    c. Scipy
+   
    d. Tensorflow
+   
    e. Keras
+   
    f. OpenCV
-2. Data Visualization
+
+2. EDA
+3. Data Visualization
    
    a. Seaborn
+   
    b. Matplotlib
+   
    c. Plotly
-3. Linear Algebra
-4. Statistics
-5. Machine learning
+5. Linear Algebra
+6. Statistics
+7. Machine learning
    
    a. Supervised
+
    b. Unsupervised
+   
    c. Reinforcement Learning
-7. Deep Learning
-8. Web Scrapping
+   
+9. Deep Learning
+10. Web Development
